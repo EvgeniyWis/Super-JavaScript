@@ -7,6 +7,6 @@
    1. Склонируйте данный репозиторий.
    2. Откройте файл ```index.html```
  
- Или вы можете просто зайти на [сайт](https://kriswis.github.io/Super-JavaScript/), загруженный на Github Pages.
+ Или вы можете просто зайти на [сайт](https://evgeniywis.github.io/Super-JavaScript/), загруженный на Github Pages.
    
  # Макет вёрстки - https://morphismail.github.io/super_javascript/
